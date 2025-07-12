@@ -13,9 +13,9 @@ Each folder contains:
 
 ## 📌 Example Projects
 
-- **HawkerHub Application** –  
-- **InsightAI Infographic** –  
-- **WasteLess Illustration** – 
+- **HawkerHub Application** 
+- **InsightAI Infographic** 
+- **WasteLess Illustration**
 
 ---
 
